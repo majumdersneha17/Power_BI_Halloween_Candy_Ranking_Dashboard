@@ -33,5 +33,8 @@ Affordability and Popularity:
 
 **New Product Suggestion:** Introducing a **new soft candy bar with low sugar content and unique flavor mixtures, such as choco-caramel and peanut**, could capture the market. This combination leverages the popularity of soft textures and multiple flavors while addressing health-conscious consumers with lower sugar content.
 
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/57497030-037b-4db0-9406-cdd8420fd518">
+
+
 <img width="683" alt="image" src="https://github.com/user-attachments/assets/609d22b0-ca2c-4b61-9297-3ec85afdc8d9">
 
