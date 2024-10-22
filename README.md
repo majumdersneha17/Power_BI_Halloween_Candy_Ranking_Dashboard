@@ -32,3 +32,6 @@ Affordability and Popularity:
 **Soft Candy Bars  are more likely to be favored** by consumers with a **winning chance of 61%**. The texture and ease of eating might contribute to their popularity.
 
 **New Product Suggestion:** Introducing a **new soft candy bar with low sugar content and unique flavor mixtures, such as choco-caramel and peanut**, could capture the market. This combination leverages the popularity of soft textures and multiple flavors while addressing health-conscious consumers with lower sugar content.
+
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/609d22b0-ca2c-4b61-9297-3ec85afdc8d9">
+
