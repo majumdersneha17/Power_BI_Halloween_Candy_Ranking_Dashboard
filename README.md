@@ -11,6 +11,14 @@ Distribution of Flavors: Illustrates the proportion of various flavors such as P
 **Table:**
 Top Candy Analysis: Lists candies with their respective rankings in terms of win percentage, sugar percentile, and price percentile.
 
+## Features
+
+- 🎃 **Candy Popularity Analysis**: Understand which candies are most and least preferred during Halloween.
+- 🎨 **Conditional Formatting**: Highlight critical data points such as top-selling candies with highest win% and corresponding Price Percentile
+- 🌟 **Interactive Dashboards**: Leverage filters and slicers for deeper exploration by various Candy Types
+- 📊 **Unpivoting Data**:  1. Convert columns representing different candy types into a single "Candy" field.
+                           2. Enable dynamic filtering and analysis based on candy type
+
 **Key Insight**
 
 **Top 5 Popular Candies:**
